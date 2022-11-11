@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: #eeeeee;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
 }
@@ -13,7 +13,7 @@ h1 {
 h2 {
     text-transform: capitalize;
     color: red;
-    background-color: gray;
+    background-color:#888888;
 }
 
 em{
@@ -27,5 +27,5 @@ strong{
     font-weight: normal;
 }
 p{
-    background-color: darkgrey;
+    background-color: #cccccc;
 }

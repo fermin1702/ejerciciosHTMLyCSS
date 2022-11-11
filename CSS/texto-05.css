@@ -25,6 +25,8 @@ figcaption {
 p {
     text-indent: 25px;
     text-size-adjust: 1cm;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 
 img {
@@ -34,4 +36,5 @@ img {
 
 em {
     color: red;
+    font-style: oblique;
 }
