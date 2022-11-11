@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 150%;
+    background-color: dodgerblue;
+}
+
+pre {
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+}
+
+p {
+    font-size: 100%;
+}
