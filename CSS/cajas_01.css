@@ -1,0 +1,71 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div.cita01 {
+    text-align: center;
+    color: green;
+    background-color: aquamarine;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-style: dashed;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+div.cita02 {
+    color: green;
+    background-color: rgb(210, 200, 240);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-style: outset;
+    border-left-color: rgb(150, 100, 255);
+    border-right-color: rgb(100, 0, 255);
+    border-top-color: rgb(150, 100, 255);
+    border-bottom-color: rgb(100, 0, 255);
+    border-width: 10px;
+}
+
+div.cita03 {
+    text-align: center;
+    color: green;
+    background-color: aquamarine;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-style: dashed;
+    margin-left: 200px;
+    margin-right: 200px;
+    object-position: 200px;
+}
+
+div.cita04 {
+    color: green;
+    background-color: aquamarine;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-style: dashed;
+}
+
+div.cita05 {
+    color: green;
+    background-color: aquamarine;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-style: dashed;
+}
