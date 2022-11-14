@@ -1,0 +1,45 @@
+body {
+    margin: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+#p01 {
+    font-size: 200%;
+}
+
+#p02 {
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p03 {
+    vertical-align: 10px;
+}
+
+#p04 {
+    vertical-align: -10px;
+}
+
+#p05 {
+    vertical-align: 5px;
+    font-size: 80%;
+}
+
+#p06 {
+    color: blue;
+    vertical-align: -50px;
+    font-size: 200%;
+}
+
+#p07 {
+    color: blue;
+    vertical-align: -20px;
+    font-size: 200%;
+}
+
+u {
+
+    color: green;
+    vertical-align: 10px;
+}
