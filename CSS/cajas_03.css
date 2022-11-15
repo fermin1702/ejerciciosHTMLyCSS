@@ -1,18 +1,20 @@
 body {
     margin: 0 20px;
-    border: orange solid;
-    border:#fff176 solid;
+    border: #fff176 5px solid;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     margin: 0;
     background-color: #fff176;
+    text-align: center;
 }
-
 
 section {
     float: left;
-    border: #fbc02d 5px solid;
+    width: 34rem;
+    border:  #fbc02d 5px solid;
     border-top: none;
     margin: 10px;
     background-color:  #ffeb3b;
@@ -20,21 +22,23 @@ section {
 
 h2 {
     margin: 0;
-    background-color: #fbc02d;
+    background-color:  #fbc02d;
+    color: brown;
 }
 
-div {
+article {
     float: left;
     width: 15rem;
-    border: orange solid;
+    border:  darkorange 5px solid;
+    border-top: none;
     margin: 10px;
-    background-color:yellow;
+    background-color:   #fbc02d;
 }
 
 h3 {
     margin: 0;
     padding-left: 5px;
-    background-color:  orange;
+    background-color: darkorange;
     color: white;
     font-size: 1.5rem;
 }
