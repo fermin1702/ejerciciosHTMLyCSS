@@ -1,71 +1,99 @@
 body {
-    background-color: aliceblue;
+    font-size: 90%;
+    background-color:#d3d3d3;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: gray;
+    color:#808085;
     text-align: center;
     text-transform: uppercase;
 }
 
 div.cita01 {
-    text-align: center;
-    color: green;
-    background-color: aquamarine;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 25px;
+    color: #58706f;
+    background-color: #c6fffa;
     border-style: dashed;
-    margin-left: 200px;
-    margin-right: 200px;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 div.cita02 {
-    color: green;
-    background-color: rgb(210, 200, 240);
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 25px;
+    color:  #5354d8;
+    background-color:#e0edf3;
     border-style: outset;
-    border-left-color: rgb(150, 100, 255);
-    border-right-color: rgb(100, 0, 255);
-    border-top-color: rgb(150, 100, 255);
-    border-bottom-color: rgb(100, 0, 255);
+    border-left-color: #b2b2ff;
+    border-right-color:#5354d8;
+    border-top-color: #b2b2ff;
+    border-bottom-color: #5354d8;
     border-width: 10px;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-left: 50%;
+    margin-right: 1%;
 }
 
 div.cita03 {
-    text-align: center;
-    color: green;
-    background-color: aquamarine;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 25px;
-    border-style: dashed;
-    margin-left: 200px;
-    margin-right: 200px;
-    object-position: 200px;
+    color: #ab4388;
+    background-color:#ff99ff;
+    border-style:solid;
+    border-color: #ab4388;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-right: 50%;
+    margin-left: 1%;
 }
 
 div.cita04 {
-    color: green;
-    background-color: aquamarine;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 25px;
-    border-style: dashed;
+    color: white;
+    background-color:#663366;
+    border-style:dotted;
+    border-color: #ff3399;
+    border-width: 5px;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-left: 50%;
+    margin-right: 1%;
 }
 
 div.cita05 {
-    color: green;
-    background-color: aquamarine;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 25px;
+    color: #58706f;
+    background-color: #c6fffa;
     border-style: dashed;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+div.cita06 {
+    color:  #5354d8;
+    background-color:#e0edf3;
+    border-style: outset;
+    border-left-color: #b2b2ff;
+    border-right-color:#5354d8;
+    border-top-color: #b2b2ff;
+    border-bottom-color: #5354d8;
+    border-width: 10px;
+    padding-left:  2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 1.5%;
+    margin-left: 50%;
+    margin-right: 1%;
+}
+
+span {
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80%;
+    font-style: oblique;
+    text-align: center;
+    padding-left:  25%;
 }
