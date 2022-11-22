@@ -3,7 +3,6 @@ body {
 }
 
 h1 {
-    font-family: url(../Fuentes/Noto_Sans_Mende_Kikakui/NotoSansMendeKikakui-Regular.ttf);
     font-family: 'Fascinate Inline', cursive;
     text-transform: uppercase;
     text-align: center;
@@ -11,10 +10,10 @@ h1 {
 }
 
 p.parrafo01 {
-    font-family: 'Noto Sans Mende Kikakui', sans-serif;
     font-size: 70%;
     padding-left: 250px;
     padding-right: 300px;
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
 }
 
