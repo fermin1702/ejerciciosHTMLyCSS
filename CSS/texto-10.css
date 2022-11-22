@@ -1,5 +1,21 @@
+@font-face {
+    font-family: 'rubickdistressed';
+    src: url('../Fuentes/RubikDistressed-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'lobster';
+    src: url('../Fuentes/Lobster-Regular.ttf');
+
+}
+
+@font-face {
+    font-family: 'rubickglitch';
+    src: url('../Fuentes/RubikGlitch-Regular.ttf');
+}
+
 body {
-    background-color:red;
+    background-color: red;
 }
 
 h1 {
@@ -10,21 +26,22 @@ h1 {
 }
 
 p.parrafo01 {
+
     font-size: 70%;
     padding-left: 250px;
     padding-right: 300px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'lobster', sans-serif;
     text-align: center;
 }
 
 p.parrafo02 {
     font-size: 200%;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'rubickglitch', cursive;
 }
 
 p.parrafo03 {
     font-size: 200%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'rubickdistressed', sans-serif;
     color: white;
     text-align: right;
     font-style: oblique;

@@ -13,19 +13,21 @@ h1 {
 h2 {
     text-transform: capitalize;
     color: red;
-    background-color:#888888;
+    background-color: #888888;
 }
 
-em{
+em {
     color: blue;
     text-decoration: underline;
     font-weight: bold;
     font-style: normal;
 }
-strong{
+
+strong {
     color: green;
     font-weight: normal;
 }
-p{
+
+p {
     background-color: #cccccc;
 }
