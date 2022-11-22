@@ -38,9 +38,8 @@ div.texto {
 }
 
 div.footer {
-    margin: 0;
+    clear: both;
     background-color: #fff176;
-    text-align: end;
 }
 
 h3 {
