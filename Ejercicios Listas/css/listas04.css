@@ -1,0 +1,76 @@
+body {
+    background-color: #F7F2F3;
+    font-family: sans-serif;
+}
+
+hr {
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul li {
+    background-color: #C29BC2;
+    color: #E8D9E8;
+    font-weight: bold;
+    margin: 0px 10px 10px 0px;
+}
+
+ul li ul li {
+    background-color: #E8D9E8;
+    color: #C29BC2;
+    font-weight: normal;
+    padding: 0px 5px;
+    margin: 0px;
+}
+
+ul.todoseguido,
+ul.todoseguido ul {
+    display: inline;
+}
+
+ul.todoseguido li {
+    padding-left: 5px;
+    display: inline;
+}
+
+
+ul.vertvert,
+ul.vertvert ul {
+    width: 17ex;
+    /* Anchura de la lista */
+}
+
+ul.vertvert li {
+    margin-right: 0px;
+    /* Hace falta en Mozilla */
+}
+
+/* Puntos en horizontal y subpuntos en horizontal */
+ul.horihori li {
+    float: left;
+    text-align: center;
+}
+
+/* Puntos en vertical y subpuntos en horizontal */
+ul.verthori li {
+    float: left;
+    clear: both;
+}
+
+ul.verthori li ul li {
+    clear: none;
+}
+
+/* Puntos en horizontal y subpuntos en vertical*/
+ul.horivert li {
+    float: left;
+}
+
+ul.horivert li ul li {
+    float: none;
+}

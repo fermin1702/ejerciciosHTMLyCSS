@@ -1,0 +1,28 @@
+img {
+    width: 42px;
+    height: 42px;
+    border: 0px;
+
+}
+
+#titulo1 {
+    color: white;
+}
+
+#ej1 {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a {
+    list-style-type:decimal;
+}
+
+.c {
+    list-style-type: circle;
+}
+
+.b {
+    list-style-type:upper-alpha;
+}
+

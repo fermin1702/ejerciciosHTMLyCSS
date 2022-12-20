@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+td {
+    border: 1px solid;
+    padding: 20px;
+    background-color:gainsboro;
+}

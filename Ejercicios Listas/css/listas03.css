@@ -1,0 +1,164 @@
+body {
+    font-family: sans-serif;
+    background: #FFECB9;
+}
+
+h2 {
+    clear: both;
+}
+
+address {
+    border-top: black 2px dashed;
+    text-align: right;
+    margin-top: 5%;
+}
+
+ul.lista1 {
+    list-style-type: none;
+}
+
+ul.lista1 li {
+    float: left;
+    margin-left: 5%;
+    background-color: lightyellow;
+}
+
+ul.lista2 {
+    list-style-type: none;
+}
+
+ul.lista2 li {
+    float: left;
+    width: 150px;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    font-weight: bold;
+    background-color: #C8FFE3;
+    border: 3px dashed #954A95;
+    color: #954A95
+}
+
+ul.lista3 {
+    list-style-type: none;
+}
+
+ul.lista3 li {
+    float: left;
+    margin: 0px;
+    width: 10em;
+    padding: 0.5em 0em;
+    text-align: center;
+    background-color: lightyellow;
+    color: #3366CC;
+    font-weight: bold;
+}
+
+ul.lista3 li.par {
+    background-color: #3366CC;
+    color: lightyellow;
+}
+
+ul.lista4 {
+    list-style-type: none;
+}
+
+ul.lista4 li {
+    float: left;
+    width: 9em;
+    padding: 0.5em 0em;
+    margin: 0em;
+    text-align: center;
+    background-color: lightyellow;
+    border-top: black 3px solid;
+    border-bottom: black 3px solid;
+}
+
+ul.lista4 li.par {
+    background-color: lightblue;
+}
+
+ul.lista4 li.primero {
+    border-left: black 3px solid;
+}
+
+ul.lista4 li.ultimo {
+    border-right: black 3px solid;
+}
+
+ul.lista5 {
+    list-style-type: none;
+}
+
+ul.lista5 li {
+    float: left;
+    padding: 0.5em 1em;
+    border: black 2px solid;
+    border-top: none;
+    margin: 0em;
+}
+
+ul.lista5 li.par {
+    border: none;
+    border-top: black 2px solid;
+}
+
+ul.lista6 {
+    list-style-type: none;
+}
+
+ul.lista6 li {
+    float: left;
+    padding: 0.5em 1em;
+    border-right: black 2px solid;
+}
+
+ul.lista6 li.ultimo {
+    border-right: none;
+}
+
+ul.lista7 {
+    list-style-type: none;
+}
+
+ul.lista7 li {
+    width: 9em;
+    margin: 0.25em 0em;
+    padding: 0.25em;
+    background-color: lightyellow;
+}
+
+ul.lista8 {
+    list-style-type: none;
+    border: black 1px solid;
+    width: 11em;
+    padding: 0.5em;
+}
+
+ul.lista8 li {
+    width: 9em;
+    margin: 0.5em 0 0.5em 0.5em;
+    padding: 0.5em;
+    text-align: center;
+    background-color: lightyellow;
+    border: black 1px solid;
+}
+
+ul.lista9 {
+    text-align: center;
+}
+
+ul.lista9 li {
+    display: inline;
+    padding: 0.25em 0.5em;
+    margin: 0em 0.5em;
+    background-color: lightyellow;
+    border: white 2px solid;
+    border-color: lightyellow black black lightyellow;
+}
+
+ul.lista9 li:hover {
+    background-color: #FFECB9;
+    border: white 2px solid;
+    border-color: black lightyellow lightyellow black;
+}
