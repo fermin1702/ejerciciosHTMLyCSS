@@ -1,0 +1,24 @@
+body{
+    background-color: #f9dfc8;
+}table{
+    border-collapse:collapse;
+}
+th{
+    border: #f9dfc8 solid;
+    background-color: #b0d9e6;
+    border-bottom:#878aeb solid 2px;
+
+}
+td{
+    border: solid black 0.1px;
+
+    text-align: center;
+    padding: 1rem;
+
+}
+.tdblanco{
+    border: none;
+}
+.tdrojo{
+    background-color: #fcc3b9;
+}

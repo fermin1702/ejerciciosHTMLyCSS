@@ -1,0 +1,51 @@
+body {
+    background-color: #9be2ff;
+    font-family: 'arial';
+}
+
+section {
+    background-color: #ffffe0;
+    padding: 1rem;
+    margin-right: 50px;
+    margin-left: 15px;
+}
+
+#tab1 {
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#tab1 caption {
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: overline 2px;
+}
+
+#tab1 td,
+#tab1 th {
+    border-bottom: 1px solid #ddd;
+    padding-left: 1rem;
+}
+
+#tab2 {
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#tab2 caption {
+    text-align: right;
+    font-weight: bold;
+}
+
+#tab2 td,
+#tab2 th {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding-left: 01rem;
+}
+
+#tab2 td {
+    font-size: 120%;
+}
